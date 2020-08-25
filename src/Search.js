@@ -57,6 +57,7 @@ const Search = ({ hideButtons = false }) => {
                         Google search
                     </Button>
                     <Button
+                        className="search_buttonsHidden"
                         variant="outlined"
                     >
                         I'm Feeling lucky
